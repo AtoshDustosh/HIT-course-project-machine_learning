@@ -1,9 +1,11 @@
 package leastSquareMethod;
 
 import Jama.Matrix;
+
 import chart.MyChart;
 import dataset.MyXYDataset;
 import defaultData.MyNumbers;
+
 import org.jfree.data.xy.XYSeries;
 
 import java.util.Vector;
@@ -39,7 +41,8 @@ public class LSFit {
      * Construct a LSFit class with input dataset and regulator.
      *
      * <p>
-     * Input dataset must and only contain an original function XYSeries and a XYSeries created by adding noise to the original function.
+     * Input dataset must and only contain an original function XYSeries and a XYSeries created by
+     * adding noise to the original function.
      * </p>
      *
      * @param dimM         dimension of polynomial function to be fitted
@@ -80,7 +83,8 @@ public class LSFit {
             double regulator = 0;
             LSFit lsf = new LSFit(dimM, regularized, regulator, initialXYDataset.clone());
 
-            // debug(finished): chart got wrong because different parameters(initialXYDataset) transferred among functions point to the same object in memory dump.
+            // debug(finished): chart got wrong because different parameters(initialXYDataset)
+            //      transferred among functions point to the same object in memory dump.
             // add fit func.(without regulator) into XYDataset of MyChart
             MyXYDataset fitFuncDataset = lsf.getFitFuncXYDataset();
             chart.addSeries(fitFuncDataset);

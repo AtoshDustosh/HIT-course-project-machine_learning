@@ -19,15 +19,16 @@ public class JamaTest {
                 {1, 0, 2}};
         double[][] array2 = {
                 {1, 1, 0},
-                {1, 3, 0},
-                {1, 0, 2}};
+                {1, 3, 0}};
         Matrix A = new Matrix(array1);
         Matrix B = new Matrix(array2);
 
+        System.out.println("A: " + A.getRowDimension() + ", B: " + B.getRowDimension());
+
         JamaTest jama = new JamaTest(A, B);
-        jama.testPlus(A, B);
-        jama.testMinus(A, B);
-        jama.testTimes(A, B);
+//        jama.testPlus(A, B);
+//        jama.testMinus(A, B);
+        jama.testTimes(A, B.transpose());
         jama.testTranspose(A);
         jama.testInverse(A);
 

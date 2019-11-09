@@ -1,12 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c574552-09a6-44ee-9311-6f929cd62f2a" name="Default Changelist" comment="" />
+    <list default="true" id="4c574552-09a6-44ee-9311-6f929cd62f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/dictionaries/AtoshDustosh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/breastCancer_dualClass/breastCancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/breastCancer_dualClass/breastCancer.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/breastCancer_dualClass/breastCancer.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/breastCancer_dualClass/breastCancer_Samples.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/divorce_dualClass/divorce.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/divorce_dualClass/divorce.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/divorce_dualClass/divorce.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/dataset/divorce_dualClass/divorce_Samples.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/Jama-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/jcommon-1.0.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/jfreechart-1.0.19-experimental.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/jfreechart-1.0.19-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/jfreechart-1.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/jfreesvg-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/junit-4.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/orsoncharts-1.4-eval-nofx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/orsonpdf-1.6-eval.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/lib/swtgraphics2d.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/logistic_regression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/dataformat/LogisticRegressionDataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/dataformat/standardFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/datareading/LogisticRegressionCSVFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/debug/VectorClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/debug/csvDataReadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/debug/fileReadingData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/debug/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/logisticregression/LogisticRegression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logistic_regression/src/test/LogisticRegressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning_PolynomialFitting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning_PolynomialFitting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/META-INF/MachineLearning_PolynomialFitting.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/chart/MyChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/chart/MyChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/conjugateGradientMethod/CGFit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/conjugateGradientMethod/CGFit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/dataset/MyXYDataset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/dataset/MyXYDataset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/defaultData/MyNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/defaultData/MyNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/functionTrial/LineChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/functionTrial/LineChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/leastSquareMethod/LSFit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/leastSquareMethod/LSFit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/libraryTest/JamaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/libraryTest/JamaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/steepestDescentMethod/SDFit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MachineLearning_PolynomialFitting/steepestDescentMethod/SDFit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chart/MyChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chart/MyChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conjugateGradientMethod/CGFit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conjugateGradientMethod/CGFit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataset/MyXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset/MyXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultData/MyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultData/MyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionTrial/LineChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionTrial/LineChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leastSquareMethod/LSFit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leastSquareMethod/LSFit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryTest/JamaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryTest/JamaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steepestDescentMethod/SDFit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steepestDescentMethod/SDFit.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,9 +90,73 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/leastSquareMethod/LSFit.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="910" />
+    <option name="width" value="911" />
+    <option name="height" value="1080" />
+  </component>
   <component name="ProjectId" id="1R8YMtkOoACkXjeLbJKs9TZ3FOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polynomial_fitting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polynomial_fitting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polynomial_fitting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="conjugateGradientMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polynomial_fitting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leastSquareMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polynomial_fitting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="steepestDescentMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polynomial_fitting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../study_JFreeChart" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CGFit">
+  <component name="RunManager" selected="Application.JamaTest">
     <configuration name="CGFit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conjugateGradientMethod.CGFit" />
       <module name="MachineLearning_PolynomialFitting" />
@@ -56,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LSFit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leastSquareMethod.LSFit" />
+    <configuration name="JamaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libraryTest.JamaTest" />
       <module name="MachineLearning_PolynomialFitting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chart.*" />
+          <option name="PATTERN" value="libraryTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeastSquareFittingChart_abandoned" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leastSquareMethod.LeastSquareFittingChart_abandoned" />
+    <configuration name="LSFit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leastSquareMethod.LSFit" />
       <module name="MachineLearning_PolynomialFitting" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JamaTest" />
         <item itemvalue="Application.CGFit" />
-        <item itemvalue="Application.SDFit" />
         <item itemvalue="Application.LSFit" />
+        <item itemvalue="Application.SDFit" />
         <item itemvalue="Application.MyChart" />
-        <item itemvalue="Application.LeastSquareFittingChart_abandoned" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +268,84 @@
       <updated>1569050146273</updated>
     </task>
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1823" height="1082" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25664216" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/conjugateGradientMethod/CGFit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="94" column="90" lean-forward="true" selection-start-line="94" selection-start-column="90" selection-end-line="94" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leastSquareMethod/LSFit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
