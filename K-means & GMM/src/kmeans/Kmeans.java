@@ -10,6 +10,7 @@ import dataset.GMMDataset;
 import defaultargs.MyArg;
 
 public class Kmeans {
+
     // which represents the value of "K" in "K-means"
     private int centerNum = MyArg.valueK.value();
 
@@ -50,10 +51,10 @@ public class Kmeans {
 
         for (int i = 0; i < 100; i++) {
             try {
-                Thread.sleep(200);
+                Thread.sleep(300);
                 kmeans.iterate(1);
                 chart.setGMMDataset(kmeans.getDatasetForImaging());
-                chart.initializeChart("K-means");
+                chart.initializeChart("K-means - iteration " + i);
                 System.out.println("iteration " + i + " completed");
             } catch (InterruptedException e) {
                 e.printStackTrace();

@@ -67,12 +67,16 @@ public class GMM {
         System.out.println(chart.seriesCount());
         chart.display();
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 50; i++) {
             try {
-                Thread.sleep(150);
+                int interval = 2000;
+                if(i > 10){
+                    interval = 300;
+                }
+                Thread.sleep(interval);
                 gmm.iterate(1);
                 chart.setGMMDataset(gmm.getDatasetForImaging());
-                chart.initializeChart("GMM");
+                chart.initializeChart("GMM - iteration " + i);
                 System.out.println("iteration " + i + " completed");
                 System.out.println("Log likelihood: " + gmm.logLikelihood());
             } catch (InterruptedException e) {
@@ -390,7 +394,7 @@ public class GMM {
             matCenter_k.set(1, 0, center2);  // set value of the second dimension
 
             // TODO Another option of choosing the initial centers (below)
-//            matCenter_k = this.matPoints.get(rand.nextInt(pointsCount)).times(1.1);
+            matCenter_k = this.matPoints.get(rand.nextInt(pointsCount)).times(1.1);
             // TODO Another option of choosing the initial centers (above)
 
             this.matCenters.add(matCenter_k);
