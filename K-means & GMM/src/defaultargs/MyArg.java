@@ -4,8 +4,8 @@ package defaultargs;
  * Some arguments/parameters for K-means and GMM algorithms.
  */
 public enum MyArg {
-    valueK(6),       // value K for K-means method
-    setNum(6),  // number of sets generated in a GMMDataset
+    valueK(5),       // value K for K-means method
+    setNum(5),  // number of sets generated in a GMMDataset
     borderSize(5),  // size of border for the x-y coordinates
     pointsPerSet(150),  // #(points) per set (cluster)
     ;

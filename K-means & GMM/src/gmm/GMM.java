@@ -69,11 +69,7 @@ public class GMM {
 
         for (int i = 0; i < 50; i++) {
             try {
-                int interval = 2000;
-                if(i > 10){
-                    interval = 300;
-                }
-                Thread.sleep(interval);
+                Thread.sleep(300);
                 gmm.iterate(1);
                 chart.setGMMDataset(gmm.getDatasetForImaging());
                 chart.initializeChart("GMM - iteration " + i);
