@@ -7,9 +7,9 @@ It contains 4 parts:
   3) k-means and GMM cluster
   4) PCA
 
-Tools used for implementation - IntelliJ IDEA
-Operating system - windows 10
-Programming language - Java
+Tools used for implementation - IntelliJ IDEA. 
+Operating system - windows 10. 
+Programming language - Java. 
 
 All libraries are included separately in the programs. 
 
