@@ -13,4 +13,4 @@ Programming language - Java.
 
 All libraries are included separately in the programs. 
 
-Annotations are detailed for program 1) 2) 3) but 4), because the last program is finished in a hurry ... maybe I will probably add it or re-construct program 4) in the future. 
+Annotations are detailed for program 1) 2) 3) but 4), because the last program was finished in a hurry ... maybe I will probably add annotations or re-construct program 4) in the future. 
